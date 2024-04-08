@@ -1,3 +1,4 @@
+[![MasterHead](https://i.pinimg.com/originals/44/db/93/44db938c4d86a7ea3ae51a511304a117.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">a super fullstack web developer from Italy!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
