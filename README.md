@@ -26,6 +26,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/alextimoncini"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/alextimoncini" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alextimoncini&show_icons=true&locale=en&layout=compact" alt="alextimoncini" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=alextimoncini&show_icons=true&locale=en" alt="alextimoncini" /></p>
+<p><img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alextimoncini&show_icons=true&locale=en&layout=compact" alt="alextimoncini" /><img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=alextimoncini&show_icons=true&locale=en" alt="alextimoncini" /></p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alextimoncini&" alt="alextimoncini" /></p>
+<img width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alextimoncini&" alt="alextimoncini" /></p>
