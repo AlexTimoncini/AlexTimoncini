@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alextimoncini&label=Profile%20views&color=0e75b6&style=flat" alt="alextimoncini" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alextimoncini" alt="alextimoncini" /></a> </p>
-
 - 🔭 I’m currently working on [Coding color](https://github.com/AlexTimoncini/coding-color)
 
 - 👨‍💻 All of my projects are available at [https://github.com/AlexTimoncini/](https://github.com/AlexTimoncini/)
