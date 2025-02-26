@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alextimoncini&label=Profile%20views&color=0e75b6&style=flat" alt="alextimoncini" /> </p>
 
-- 🔭 I’m currently working on [Coding color](https://github.com/AlexTimoncini/coding-color)
+- 🔭 I’m currently working on [my Portfolio](https://github.com/AlexTimoncini/my-portfolio)
 
 - 👨‍💻 All of my projects are available at [https://github.com/AlexTimoncini/](https://github.com/AlexTimoncini/)
 
