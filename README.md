@@ -26,4 +26,4 @@
 <p><a href="https://www.buymeacoffee.com/alextimoncini"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/alextimoncini" /></a></p><br><br><br><br>
 
 <br /><img width="400px" src="https://github-readme-stats.vercel.app/api?username=alextimoncini&show_icons=true&locale=en" alt="alextimoncini" /><br />
-<br /><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=alextimoncini&" alt="alextimoncini" /></p>
+<br /></p>
